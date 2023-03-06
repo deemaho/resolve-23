@@ -110,10 +110,11 @@ input[type=tel] {
   background: #d73836;
   color: #fff;
   border-color: #d73836;
+  font-weight: 500;
 }
 .btn-main:hover {
   color: #d73836;
-  background: transparent;
+  background: #fff;
   border-color: #d73836;
 }
 
